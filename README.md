@@ -1,2 +1,2 @@
 # engacad
-https://bbmaxafk.github.com/engacad
+https://bbmaxafk.github.io/engacad/
